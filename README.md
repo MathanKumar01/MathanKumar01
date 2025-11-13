@@ -1,4 +1,4 @@
-# 👋 Yo, I'm Mathan Kumar!
+# 👋 Hi, I'm Mathan Kumar!
 
 <div align="center">
   
